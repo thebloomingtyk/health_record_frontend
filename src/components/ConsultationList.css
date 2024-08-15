@@ -1,0 +1,75 @@
+.consultation-list-container {
+    margin: 20px;
+  }
+  
+  .error {
+    color: red;
+  }
+  
+  .search-bar {
+    margin-bottom: 20px;
+    padding: 10px;
+    width: 100%;
+    box-sizing: border-box;
+  }
+  
+  .consultation-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+  }
+  
+  .consultation-table th, .consultation-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  .consultation-table th {
+    background-color: #f2f2f2;
+  }
+  
+  .generate-report-button {
+    background-color: #4cadaf;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .generate-report-button:hover {
+    background-color: #45a09e;
+  }
+  
+  .form-container {
+    margin-top: 20px;
+  }
+  
+  .form-container form {
+    margin-bottom: 20px;
+  }
+  
+  .form-container label {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  .form-container input {
+    padding: 8px;
+    width: 100%;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+  }
+  
+  .form-container button {
+    background-color: #4cafa3;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .form-container button:hover {
+    background-color: #459aa0;
+  }
+  
